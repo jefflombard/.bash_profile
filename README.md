@@ -1,5 +1,5 @@
 # My .bash_profile for MacOSX
-(Take a look)[/.bash_profile]
+[Take a look](/.bash_profile)
 
 ## How to add my profile to your profile
 
